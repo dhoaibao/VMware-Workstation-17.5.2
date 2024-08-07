@@ -1,9 +1,7 @@
 ## VMware Workstation 17.5.2
-[Download for Windows](https://x4pcc-my.sharepoint.com/:u:/g/personal/dhbao_idev_id_vn/EQO0YiMq1cxIlXIWua925kYB0HAK4qKiNFqKiRC0zweD1w?e=lebYT0&download=1)
+[Download for Windows](https://github.com/dhoaibao/VMware-Workstation-17.5.2/releases/download/17.5.2/VMware-workstation-full-17.5.2-23775571.exe)
 
-[Download for Linux](https://x4pcc-my.sharepoint.com/:u:/g/personal/dhbao_idev_id_vn/Eb9XlqmLMtFApHPptvWji7sBcDHi3-7dKyVeeYW134L0dw?e=XSE5La&download=1)
-
-> **Backup download link: [here](https://drive.google.com/drive/folders/1_Hz9xUJ2y8aNF2CBAzCD_doOkiKZZnfi?usp=drive_link)**
+[Download for Linux](https://github.com/dhoaibao/VMware-Workstation-17.5.2/releases/download/17.5.2/VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle)
 
 ## Install on Linux
 ```js
