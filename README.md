@@ -9,6 +9,7 @@
 ```js
   chmod +x ./VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle
   sudo ./VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle
+  sudo rm -f ./VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle
 
   git clone https://github.com/mkubecek/vmware-host-modules
   cd vmware-host-modules
