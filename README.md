@@ -11,6 +11,11 @@
   sudo ./VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle
 ```
 
+## Uninstall on Linux
+```js
+  vmware-installer -u vmware-workstation
+```
+
 ## Key Pro
 ```js
   MG210-0EK8K-H89Y1-VLAN2-93K20
