@@ -15,6 +15,7 @@
   git checkout workstation-17.5.1
   sudo make
   sudo make install
+  sudo rm -rf vmware-host-modules
 ```
 
 ## Uninstall on Linux
