@@ -20,15 +20,15 @@
   sudo rm -rf ./vmware-host-modules
 ```
 
-## Uninstall on Linux
-```js
-  vmware-installer -u vmware-workstation
-```
-
 ## Key Pro
 ```js
   MG210-0EK8K-H89Y1-VLAN2-93K20
   HF200-0W05K-089X8-4R1EK-032J0
   5A69H-4A08H-480K1-KU972-932L4
   5Y69H-0J250-H88C8-MJ8Q0-2C2P4
+```
+
+## Uninstall on Linux
+```js
+  vmware-installer -u vmware-workstation
 ```
